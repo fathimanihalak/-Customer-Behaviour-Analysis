@@ -19,6 +19,7 @@ The final outcome helps understand buying habits and support data-driven busines
 | GitHub     | Version control                      |
 
 ✅ Project Workflow
+
 🔹 1. Data Cleaning — Python
 
 Performed preprocessing to make the dataset analysis-ready:
