@@ -17,6 +17,7 @@ The final outcome helps understand buying habits and support data-driven busines
 | SQL Server | Querying & analysis                  |
 | Power BI   | Dashboard & Visualization            |
 | GitHub     | Version control                      |
+
 ✅ Project Workflow
 🔹 1. Data Cleaning — Python
 
